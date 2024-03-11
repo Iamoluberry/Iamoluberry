@@ -11,6 +11,7 @@
 - Bootstrap
 - JavaScript
 - React
+- Angular
 
 ## Interests
 
