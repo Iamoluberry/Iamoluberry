@@ -12,6 +12,7 @@
 - JavaScript
 - Angular
 - React
+- React Native
 
 ## Interests
 
