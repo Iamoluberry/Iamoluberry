@@ -2,7 +2,7 @@
 
 👀 Passionate about web development, I'm on a journey to master the art of crafting interactive and engaging user interfaces.
 
-🌱 Currently, I'm honing my skills in HTML, CSS, Bootstrap, JavaScript, Angular, React, and Laravel eager to delve deeper into the world of web technologies.
+🌱 Equipped with skills in HTML, CSS, Bootstrap, JavaScript, Angular, React, and Laravel.
 
 ## Skills
 
