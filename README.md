@@ -2,7 +2,7 @@
 
 👀 Passionate about web development, I'm on a journey to master the art of crafting interactive and engaging user interfaces.
 
-🌱 Currently, I'm honing my skills in HTML, CSS, Bootstrap, JavaScript, Angular, and React, eager to delve deeper into the world of web technologies.
+🌱 Currently, I'm honing my skills in HTML, CSS, Bootstrap, JavaScript, Angular, React, and Laravel eager to delve deeper into the world of web technologies.
 
 ## Skills
 
@@ -13,6 +13,7 @@
 - Angular
 - React
 - React Native
+- Laravel (Backend)
 
 ## Interests
 
@@ -20,7 +21,7 @@ I thrive on frontend development, meticulously designing beautiful and responsiv
 
 ## Collaboration
 
-💞️ I'm excited about collaborating with fellow frontend developers who share my enthusiasm for creating seamless and visually captivating web experiences.
+💞️ I'm excited about collaborating with fellow FRONTEND/BACKEND developers who share my enthusiasm for creating seamless and visually captivating web experiences.
 
 ## Let's Connect!
 
