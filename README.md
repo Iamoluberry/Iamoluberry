@@ -12,11 +12,13 @@
 - JavaScript
 - Angular
 - React
+- Next
 - React Native
 - Laravel
 - PHP
 - NodeJs
 - ExpressJs
+- NestJs
 
 ## Interests
 
