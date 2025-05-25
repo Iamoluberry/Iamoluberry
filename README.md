@@ -2,7 +2,7 @@
 
 👀 Passionate about web development, I'm on a journey to master the art of crafting interactive and engaging user interfaces.
 
-🌱 Equipped with skills in HTML, CSS, Bootstrap, JavaScript, Angular, React, Next.Js, Node.Js, Express, Nest.Js, PHP and Laravel.
+🌱 Equipped with skills in HTML, CSS, Bootstrap, Tailwind, JavaScript, Angular, React, Next.Js, Node.Js, Express, Nest.Js, PHP and Laravel.
 
 ## Skills
 
